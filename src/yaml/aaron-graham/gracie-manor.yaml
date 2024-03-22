@@ -18,6 +18,7 @@ info:
   author: Aaron Graham
   website: https://community.simtropolis.com/files/file/28981-nybt-gracie-manor/
 
+dependencies: ["nybt:essentials"]
 variants:
   - variant: { nightmode: dark }
     dependencies: ["simfox:day-and-nite-mod"]
