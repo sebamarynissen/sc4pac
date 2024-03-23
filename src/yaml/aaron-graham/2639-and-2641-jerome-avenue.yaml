@@ -1,0 +1,30 @@
+group: aaron-graham
+name: 2639-and-2641-jerome-avenue
+version: 1.0.0
+subfolder: 200-residential
+info:
+  summary: 2639 And 2641 Jerome Avenue
+  author: Aaron Graham
+  website: https://community.simtropolis.com/files/file/30167-nybt-2639-and-2641-jerome-avenue/
+
+dependencies: ["nybt:essentials"]
+variants:
+  - variant: { nightmode: dark }
+    dependencies: ["simfox:day-and-nite-mod"]
+    assets:
+      - assetId: aaron-graham-2639-and-2641-jerome-avenue-darknite
+  - variant: { nightmode: standard }
+    assets:
+      - assetId: aaron-graham-2639-and-2641-jerome-avenue-maxisnite
+
+---
+assetId: aaron-graham-2639-and-2641-jerome-avenue-darknite
+version: 1.0.0
+lastModified: "2022-07-12T01:21:52Z"
+url: https://community.simtropolis.com/files/file/30167-nybt-2639-and-2641-jerome-avenue/?do=download&r=148489
+
+---
+assetId: aaron-graham-2639-and-2641-jerome-avenue-maxisnite
+version: 1.0.0
+lastModified: "2022-07-12T01:21:52Z"
+url: https://community.simtropolis.com/files/file/30167-nybt-2639-and-2641-jerome-avenue/?do=download&r=148488
