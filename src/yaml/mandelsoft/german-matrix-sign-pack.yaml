@@ -2,11 +2,20 @@ group: "mandelsoft"
 name: "german-matrix-sign-pack"
 version: "2.0"
 subfolder: "700-transit"
-assets:
-- assetId: "mandelsoft-german-matrix-sign-pack"
+variants:
+  - variant: { driveside: "right" }
+    assets:
+    - assetId: "mandelsoft-german-matrix-sign-pack"
+      exclude:
+        - "German Matrix Sign Pack LHD/"
+  - variant: { driveside: "left" }
+    assets:
+    - assetId: "mandelsoft-german-matrix-sign-pack"
+      exclude:
+        - "German Matrix Sign Pack RHD/"
 
 info:
-  summary: "Pack of midsize New York styled buildings"
+  summary: "German styled matrix signs"
   description: >
     This pack contains German Styled Matrix signs for the RHW-4, 6C, 6S, 8C, 8S and 10.
   author: "MandelSoft/MRTNRLN"
