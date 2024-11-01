@@ -1,0 +1,21 @@
+group: "mandelsoft"
+name: "belgium-highway-sign-pack"
+version: "2.0"
+subfolder: "700-transit"
+assets:
+- assetId: "mandelsoft-belgium-highway-sign-pack"
+
+info:
+  summary: "Belgium Highway Sign Pack"
+  description: >
+    This pack contains 11 signs from the Belgium highway.
+  author: "MandelSoft/MRTNRLN"
+  website: "https://community.simtropolis.com/files/file/20418-belgium-highway-sign-pack/"
+  images:
+    - "https://www.simtropolis.com/objects/screens/0002/0bbbff9f26b561c0e430cf2b036f0b31-Bel%20Signs.JPG"
+
+---
+assetId: "mandelsoft-belgium-highway-sign-pack"
+version: "2.0"
+lastModified: "2024-09-05T02:09:29Z"
+url: "https://community.simtropolis.com/files/file/20418-belgium-highway-sign-pack/?do=download"
