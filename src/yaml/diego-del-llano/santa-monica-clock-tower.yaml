@@ -12,6 +12,9 @@ info:
 
   author: Diego Del Llano
   website: https://community.simtropolis.com/files/file/35534-santa-monica-clock-tower/
+  images:
+    - https://www.simtropolis.com/objects/screens/monthly_2023_05/647550ba5bc34_SANTAMONICATOWER.jpg.846eb71cfc250590125e1e0952680f4a.jpg
+    - https://www.simtropolis.com/objects/screens/monthly_2023_05/sntmmn.jpg.0d250b7c8a512b9a433df2b110f46797.jpg
 
 variants:
   - variant: { nightmode: standard }
