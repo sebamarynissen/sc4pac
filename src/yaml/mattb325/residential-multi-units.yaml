@@ -11,6 +11,65 @@ url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=99:sc
 
 ---
 group: mattb325
+name: residential-multi-unit-pack
+version: "1.2"
+subfolder: 200-residential
+info:
+  summary: Residential Multi-Unit Pack
+  description: A pack of 46 multi-unit residentials
+  author: mattb325
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
+
+dependencies:
+  - mattb325:windmill-st
+  - mattb325:waterloo-apartments
+  - mattb325:wan-wan-apartments
+  - mattb325:vivo-apartments
+  - mattb325:veinte-apartments
+  - mattb325:the-residence
+  - mattb325:small-apartments
+  - mattb325:saville-condos
+  - mattb325:regis-condos
+  - mattb325:regency-terraces
+  - mattb325:parkland-lofts
+  - mattb325:modern-villas
+  - mattb325:modern-townhouses
+  - mattb325:modern-r$-terraces
+  - mattb325:l_aquila-apartments
+  - mattb325:little-riley-street
+  - mattb325:lennox-gardens
+  - mattb325:lansdowne-terrace
+  - mattb325:kensington-apartments
+  - mattb325:houston-place-apartments
+  - mattb325:holland-park
+  - mattb325:grosvenor-mansions
+  - mattb325:gertrude-apartments
+  - mattb325:forbes-st
+  - mattb325:exhibition-rd-kensington
+  - mattb325:ennuyeuse-apartments
+  - mattb325:englewood-condos
+  - mattb325:emporio-apartments
+  - mattb325:embassy-apartments
+  - mattb325:earls-court
+  - mattb325:devries-villa
+  - mattb325:cube-apartments
+  - mattb325:confluence-apartments
+  - mattb325:commons-court
+  - mattb325:claridge-ii-townhomes
+  - mattb325:city-rd-chippendale
+  - mattb325:boom-style-terraces
+  - mattb325:beverly-apartments
+  - mattb325:beurlay-apartments
+  - mattb325:bayauxlaan-apartments
+  - mattb325:apartments-merdiques
+  - mattb325:almeda-townhomes
+  - mattb325:alighieri-apts
+  - mattb325:alhambra-duplex
+  - mattb325:ainslee-condos
+  - mattb325:casa-de-manana
+
+---
+group: mattb325
 name: windmill-st
 version: "1.2"
 subfolder: 200-residential
