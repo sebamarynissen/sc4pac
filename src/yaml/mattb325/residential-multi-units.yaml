@@ -901,7 +901,7 @@ variants:
   - variant: { nightmode: standard }
     assets:
       - assetId: mattb325-residential-multi-units-maxisnite
-        include: ["/Earls Court/"]
+        include: ["/EarlsCourt/"]
   - variant: { nightmode: dark }
     dependencies: [ "simfox:day-and-nite-mod" ]
     assets:
