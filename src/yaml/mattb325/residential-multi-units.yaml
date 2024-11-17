@@ -1269,11 +1269,11 @@ variants:
 
 ---
 group: mattb325
-name: =casa-de-manana-temperate
+name: casa-de-manana
 version: "1.2"
 subfolder: 200-residential
 info:
-  summary: =Casa de Manana-Temperate
+  summary: Casa de Manana
   description: 3 R$$ multi-unit condos
   author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
@@ -1288,44 +1288,21 @@ dependencies:
   - bsc:mega-props-newmaninc-vol04
   - bsc:texturepack-cycledogg-vol01
 variants:
-  - variant: { nightmode: standard }
+  - variant: { nightmode: standard, mattb325:casa-de-manana:climate: temperate }
     assets:
       - assetId: mattb325-residential-multi-units-maxisnite
         include: ["/=Casa de Manana-Temperate/"]
-  - variant: { nightmode: dark }
+  - variant: { nightmode: dark, mattb325:casa-de-manana:climate: temperate }
     dependencies: [ "simfox:day-and-nite-mod" ]
     assets:
       - assetId: mattb325-residential-multi-units-darknite
         include: ["/=Casa de Manana-Temperate/"]
-
----
-group: mattb325
-name: -casa-de-manana-subtropical
-version: "1.2"
-subfolder: 200-residential
-info:
-  summary: -Casa de Manana-Subtropical
-  description: 3 R$$ multi-unit condos
-  author: mattb325
-  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
-
-dependencies:
-  - bsc:essentials
-  - bsc:bat-props-mattb325-vol02
-  - bsc:mega-props-cp-vol01
-  - bsc:mega-props-cp-vol02
-  - bsc:mega-props-mikeseith-vol01
-  - bsc:mega-props-mikeseith-vol03
-  - bsc:mega-props-newmaninc-vol04
-  - bsc:texturepack-cycledogg-vol01
-variants:
-  - variant: { nightmode: standard }
+  - variant: { nightmode: standard, mattb325:casa-de-manana:climate: subtropical }
     assets:
       - assetId: mattb325-residential-multi-units-maxisnite
         include: ["/-Casa de Manana-Subtropical/"]
-  - variant: { nightmode: dark }
+  - variant: { nightmode: dark, mattb325:casa-de-manana:climate: subtropical }
     dependencies: [ "simfox:day-and-nite-mod" ]
     assets:
       - assetId: mattb325-residential-multi-units-darknite
         include: ["/-Casa de Manana-Subtropical/"]
-
