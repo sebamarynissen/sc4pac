@@ -17,7 +17,7 @@ subfolder: 200-residential
 info:
   summary: Windmill St
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -45,7 +45,7 @@ subfolder: 200-residential
 info:
   summary: Waterloo Apartments
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -75,7 +75,7 @@ subfolder: 200-residential
 info:
   summary: Wan Wan Apartments
   description: 4 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -102,7 +102,7 @@ subfolder: 200-residential
 info:
   summary: Vivo Apartments
   description: 1 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -128,7 +128,7 @@ subfolder: 200-residential
 info:
   summary: Veinte Apartments
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -155,7 +155,7 @@ subfolder: 200-residential
 info:
   summary: The Residence
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -180,7 +180,7 @@ subfolder: 200-residential
 info:
   summary: Small Apartments
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -210,7 +210,7 @@ subfolder: 200-residential
 info:
   summary: Saville Condos
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -237,7 +237,7 @@ subfolder: 200-residential
 info:
   summary: Regis Condos
   description: 5 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -264,7 +264,7 @@ subfolder: 200-residential
 info:
   summary: Regency Terraces
   description: 4 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -291,7 +291,7 @@ subfolder: 200-residential
 info:
   summary: Parkland Lofts
   description: 5 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -319,7 +319,7 @@ subfolder: 200-residential
 info:
   summary: Modern Villas
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -349,7 +349,7 @@ subfolder: 200-residential
 info:
   summary: Modern Townhouses
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -375,7 +375,7 @@ subfolder: 200-residential
 info:
   summary: Modern R$ Terraces
   description: 2 R$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -399,7 +399,7 @@ subfolder: 200-residential
 info:
   summary: L_Aquila Apartments
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -432,7 +432,7 @@ subfolder: 200-residential
 info:
   summary: Little Riley Street
   description: 4 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -461,7 +461,7 @@ subfolder: 200-residential
 info:
   summary: Lennox Gardens
   description: 6 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -490,7 +490,7 @@ subfolder: 200-residential
 info:
   summary: Lansdowne Terrace
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -519,7 +519,7 @@ subfolder: 200-residential
 info:
   summary: Kensington Apartments
   description: 6 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -547,7 +547,7 @@ subfolder: 200-residential
 info:
   summary: Houston Place Apartments
   description: 4 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -574,7 +574,7 @@ subfolder: 200-residential
 info:
   summary: Holland Park
   description: 2 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -600,7 +600,7 @@ subfolder: 200-residential
 info:
   summary: Grosvenor Mansions
   description: 1 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -627,7 +627,7 @@ subfolder: 200-residential
 info:
   summary: Gertrude Apartments
   description: 5 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -654,7 +654,7 @@ subfolder: 200-residential
 info:
   summary: Forbes St
   description: 1 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -682,7 +682,7 @@ subfolder: 200-residential
 info:
   summary: Exhibition Rd Kensington
   description: 1 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -709,7 +709,7 @@ subfolder: 200-residential
 info:
   summary: Ennuyeuse Apartments
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -738,7 +738,7 @@ subfolder: 200-residential
 info:
   summary: Englewood Condos
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -766,7 +766,7 @@ subfolder: 200-residential
 info:
   summary: Emporio Apartments
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -798,7 +798,7 @@ subfolder: 200-residential
 info:
   summary: Embassy Apartments
   description: 2 R$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -830,7 +830,7 @@ subfolder: 200-residential
 info:
   summary: Earls Court
   description: 2 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -857,7 +857,7 @@ subfolder: 200-residential
 info:
   summary: DeVries Villa
   description: 4 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -885,7 +885,7 @@ subfolder: 200-residential
 info:
   summary: Cube Apartments
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -913,7 +913,7 @@ subfolder: 200-residential
 info:
   summary: Confluence Apartments
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -940,7 +940,7 @@ subfolder: 200-residential
 info:
   summary: Commons Court
   description: 3 R$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -969,7 +969,7 @@ subfolder: 200-residential
 info:
   summary: Claridge II Townhomes
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -996,7 +996,7 @@ subfolder: 200-residential
 info:
   summary: City Rd Chippendale
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1025,7 +1025,7 @@ subfolder: 200-residential
 info:
   summary: Boom Style Terraces
   description: 16 R$$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1054,7 +1054,7 @@ subfolder: 200-residential
 info:
   summary: Beverly Apartments
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1078,7 +1078,7 @@ subfolder: 200-residential
 info:
   summary: Beurlay Apartments
   description: 8 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1107,7 +1107,7 @@ subfolder: 200-residential
 info:
   summary: Bayauxlaan Apartments
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1138,7 +1138,7 @@ subfolder: 200-residential
 info:
   summary: Apartments Merdiques
   description: 2 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1164,7 +1164,7 @@ subfolder: 200-residential
 info:
   summary: Almeda Townhomes
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1192,7 +1192,7 @@ subfolder: 200-residential
 info:
   summary: Alighieri Apts
   description: 1 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1216,7 +1216,7 @@ subfolder: 200-residential
 info:
   summary: Alhambra Duplex
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1245,7 +1245,7 @@ subfolder: 200-residential
 info:
   summary: Ainslee Condos
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1275,7 +1275,7 @@ subfolder: 200-residential
 info:
   summary: =Casa de Manana-Temperate
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
@@ -1306,7 +1306,7 @@ subfolder: 200-residential
 info:
   summary: -Casa de Manana-Subtropical
   description: 3 R$$ multi-unit condos
-author: mattb325
+  author: mattb325
   website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/98-sc4d-lex-legacy-mattb325-residential-multi-unit-pack-darknite
 
 dependencies:
