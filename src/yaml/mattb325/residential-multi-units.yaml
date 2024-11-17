@@ -443,12 +443,12 @@ variants:
   - variant: { nightmode: standard }
     assets:
       - assetId: mattb325-residential-multi-units-maxisnite
-        include: ["/Modern R$ Terraces_MN/"]
+        include: ["/Modern R\\$ Terraces_MN/"]
   - variant: { nightmode: dark }
     dependencies: [ "simfox:day-and-nite-mod" ]
     assets:
       - assetId: mattb325-residential-multi-units-darknite
-        include: ["/Modern R$ Terraces_DN/"]
+        include: ["/Modern R\\$ Terraces_DN/"]
 
 ---
 group: mattb325
