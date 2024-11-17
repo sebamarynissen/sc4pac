@@ -32,7 +32,7 @@ dependencies:
   - mattb325:regis-condos
   - mattb325:regency-terraces
   - mattb325:parkland-lofts
-  - mattb325:modern-villas
+  - mattb325:modern-villas-multi-unit
   - mattb325:modern-townhouses
   - mattb325:modern-r$-terraces
   - mattb325:l-aquila-apartments
@@ -372,7 +372,7 @@ variants:
 
 ---
 group: mattb325
-name: modern-villas
+name: modern-villas-multi-unit
 version: "1.2"
 subfolder: 200-residential
 info:
